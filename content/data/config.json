@@ -85,7 +85,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "+1 250-517-9428",
-            "phoneAltText": "",
+            "phoneAltText": "My phone number",
             "email": "drevivar2001@gmail.com",
             "emailAltText": "My email",
             "address": "",
