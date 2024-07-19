@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hi, i''m andrei vivar'
-    subtitle: I am an aspiring Machine Learning Engineer
+    subtitle: ''
     styles:
       self:
         height: auto
