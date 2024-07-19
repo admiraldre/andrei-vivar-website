@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi, i''m andrei vivar'
+    title: Hello World! My Name is Andrei Vivar.
     subtitle: ''
     styles:
       self:
