@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hello World! My Name is Andrei Vivar.
-    subtitle: ''
+    subtitle: An aspiring AI/Machine Learning Engineer
     styles:
       self:
         height: auto
