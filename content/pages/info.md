@@ -317,6 +317,63 @@ sections:
       subtitle:
         textAlign: left
   - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: FeaturedItemsSection
+    title: My Resume
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: Click here for my Resume
+            altText: ''
+            url: >-
+              https://drive.google.com/file/d/1bUinjAb2FRDEbpjIxfzb8IoOckRFhpa2/view?usp=sharing
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: DividerSection
     styles:
       self:
         width: wide
