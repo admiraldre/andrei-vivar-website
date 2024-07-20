@@ -229,9 +229,8 @@ sections:
     variant: variant-a
     subtitle: 'Contact Me:'
     colors: colors-f
-    text: |+
-      drevivar2001\@gmail.com
-
+    text: |
+      <drevivar2001@gmail.com>
   - type: DividerSection
     styles:
       self:
