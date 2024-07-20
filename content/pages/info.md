@@ -227,9 +227,10 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contact Me:'
     colors: colors-f
-    text: ''
+    text: |
+      <drevivar2001@gmail.com>
   - type: DividerSection
     styles:
       self:
