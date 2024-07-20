@@ -237,6 +237,8 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
+      drevivar2001\@gmail.com
+
       <drevivar2001@gmail.com>
   - type: DividerSection
     styles:
