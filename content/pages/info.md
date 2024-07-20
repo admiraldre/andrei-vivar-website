@@ -340,7 +340,7 @@ sections:
           - type: Button
             label: Click here for my Resume
             altText: ''
-            url: ''
+            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
