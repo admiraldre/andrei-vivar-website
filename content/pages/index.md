@@ -188,6 +188,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: |
-      Yas
+    text: ''
 ---
