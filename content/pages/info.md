@@ -2,13 +2,6 @@
 type: PageLayout
 title: About
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
@@ -253,27 +246,23 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: ''
+        text: |
+          **June 2024 - Current**
 
-          * freelance @freelance.me
+          *   Database and Digital Content Administrator @ Kamloops Film Society
 
-          **2018-2021**
+          **Jan 2024 - Apr 2024**
 
-          * fullstack at this startup
+          *   Data Analyst @ Thompson Rivers University Internal Audit
 
-          **2015**
+          **May 2023 - Dec 2023**
 
-          * senior front-end at this place
+          *   Project Assistant @ Houle Electric
 
-          **2013**
+          **May 2022 - Aug 2022**
 
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+          *   Rework Technician @ LVI Group
         styles:
           self:
             textAlign: left
@@ -282,20 +271,15 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: 'Experience:'
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        subtitle: ''
+        text: >
+          **2020-Present**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+          *   Bachelor in Engineering, Major in Software Engineering @ Thompson
+          Rivers University
         styles:
           self:
             textAlign: left
@@ -304,6 +288,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: 'Education:'
     columns: 2
     spacingX: 60
     spacingY: 60
