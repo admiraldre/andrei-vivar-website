@@ -13,8 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      #Hey I am a current Software Engineering Student at Thompson Rivers
+    text: >
+      \##Hey I am a current Software Engineering Student at Thompson Rivers
       University, Canada.
     media:
       type: ImageBlock
