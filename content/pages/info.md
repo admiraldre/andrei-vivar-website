@@ -340,8 +340,7 @@ sections:
           - type: Button
             label: Click here for my Resume
             altText: ''
-            url: >-
-              https://drive.google.com/file/d/1bUinjAb2FRDEbpjIxfzb8IoOckRFhpa2/view?usp=sharing
+            url: ''
             showIcon: true
             icon: arrowRight
             iconPosition: right
