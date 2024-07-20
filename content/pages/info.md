@@ -227,7 +227,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contact Me:'
     colors: colors-f
     text: ''
   - type: DividerSection
