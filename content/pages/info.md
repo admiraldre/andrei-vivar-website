@@ -198,11 +198,9 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
       - type: Label
         label: React
-      - type: Label
-        label: Microsoft Office
       - type: Label
         label: Next.js
       - type: Label
@@ -213,6 +211,8 @@ sections:
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: Microsoft Office
   - type: DividerSection
     styles:
       self:
