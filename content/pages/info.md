@@ -247,26 +247,22 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: ''
-        text: |-
-          **Current**
+        text: |
+          **June 2024 - Current**
 
-          * freelance @freelance.me
+          *   Database and Digital Content Administrator @ Kamloops Film Society
 
-          **2018-2021**
+          **Jan 2024 - Apr 2024**
 
-          * fullstack at this startup
+          *   Data Analyst @ Thompson Rivers University Internal Audit
 
-          **2015**
+          **May 2023 - Dec 2023**
 
-          * senior front-end at this place
+          *   Project Assistant @ Houle Electric
 
-          **2013**
+          **May 2022 - Aug 2022**
 
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+          *   Rework Technician @ LVI Group
         styles:
           self:
             textAlign: left
