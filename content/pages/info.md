@@ -335,7 +335,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Click here for my Resume
             altText: ''
             url: /
             showIcon: true
