@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: A sample project post
 colors: colors-a
 date: '2024-07-19'
 client: Awesome client
