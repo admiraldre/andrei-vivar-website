@@ -317,7 +317,7 @@ sections:
       subtitle:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: My Resume
     items:
       - type: FeaturedItem
         title: I'm Fast
