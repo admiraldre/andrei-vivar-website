@@ -274,18 +274,12 @@ sections:
         title: 'Experience:'
       - type: FeaturedItem
         subtitle: ''
-        text: |-
-          **2015-2018**
+        text: >
+          **2020-Present**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+          *   Bachelor in Engineering, Major in Software Engineering @ Thompson
+          Rivers University
         styles:
           self:
             textAlign: left
