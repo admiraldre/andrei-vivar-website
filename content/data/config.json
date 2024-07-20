@@ -96,7 +96,7 @@
             "self": {
                 "width": "narrow",
                 "padding": [
-                    "pt-14",
+                    "pt-10",
                     "pb-16",
                     "pr-4",
                     "pl-4"
