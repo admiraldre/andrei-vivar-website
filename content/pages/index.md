@@ -55,8 +55,6 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -83,7 +81,7 @@ sections:
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Featured Blog Posts
     showFeaturedImage: false
     actions:
       - type: Link
@@ -91,8 +89,6 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
