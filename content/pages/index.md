@@ -82,7 +82,7 @@ sections:
     colors: colors-f
     variant: variant-d
     subtitle: Featured Blog Posts
-    showFeaturedImage: true
+    showFeaturedImage: false
     actions:
       - type: Link
         label: See all posts
