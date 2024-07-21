@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hello World! My Name is Andrei Vivar.
+    title: 'Hello World! I''m ANdrei Vivar, the Ai adventurer'
     subtitle: An aspiring AI/Machine Learning Engineer
     styles:
       self:
