@@ -13,7 +13,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hello World! I''m ANdrei Vivar, the Ai adventurer'
-    subtitle: An aspiring AI/Machine Learning Engineer
+    subtitle: >-
+      Exploring the uncharted territories of Machine Learning and Data
+      Engineering
     styles:
       self:
         height: auto
