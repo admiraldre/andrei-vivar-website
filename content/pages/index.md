@@ -13,9 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hello World! I''m ANdrei Vivar, Your Future AI Overlord!'
-    subtitle: >-
-      Exploring the uncharted territories of Machine Learning and Data
-      Engineering
+    subtitle: 'Engineering the future with AI, one line of code at a time'
     styles:
       self:
         height: auto
