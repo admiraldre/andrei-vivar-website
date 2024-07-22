@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-a
+colors: colors-c
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
