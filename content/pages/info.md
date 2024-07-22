@@ -119,7 +119,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Next.js
+        label: JavaScript
       - type: Label
         label: Netlify
       - type: Label
