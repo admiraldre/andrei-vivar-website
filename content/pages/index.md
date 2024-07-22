@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 25
+  opacity: 10
   url: /images/datax_by-kyle-mckernan-7.jpg
 sections:
   - elementId: ''
