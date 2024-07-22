@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: A sample project post
-colors: colors-a
+colors: colors-c
 date: '2024-07-19'
 client: Awesome client
 description: This is a first sample project post yar!
