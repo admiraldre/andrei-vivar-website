@@ -117,7 +117,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: React
+        label: SQL
       - type: Label
         label: Next.js
       - type: Label
