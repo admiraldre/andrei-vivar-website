@@ -123,9 +123,9 @@ sections:
       - type: Label
         label: AI / Machine Learning
       - type: Label
-        label: Software Engineering
-      - type: Label
         label: C++
+      - type: Label
+        label: Software Engineering
       - type: Label
         label: Swift
       - type: Label
