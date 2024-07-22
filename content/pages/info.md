@@ -121,9 +121,9 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: AI / Machine Learning
-      - type: Label
         label: C++
+      - type: Label
+        label: AI / Machine Learning
       - type: Label
         label: Software Engineering
       - type: Label
