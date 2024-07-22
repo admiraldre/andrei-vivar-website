@@ -452,7 +452,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/datax_by-kyle-mckernan-7.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
