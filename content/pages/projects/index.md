@@ -7,7 +7,8 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 50
+  opacity: 25
+  url: /images/datax_by-kyle-mckernan-7.jpg
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
