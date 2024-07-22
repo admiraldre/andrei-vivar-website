@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/datax_by-kyle-mckernan-7.jpg
 sections:
   - elementId: ''
     colors: colors-f
