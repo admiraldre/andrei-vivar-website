@@ -1,7 +1,7 @@
 ---
 type: PostFeedLayout
 title: Blog
-colors: colors-a
+colors: colors-b
 postFeed:
   type: PostFeedSection
   colors: colors-f
@@ -22,11 +22,4 @@ postFeed:
 styles:
   title:
     textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  url: /images/datax_by-kyle-mckernan-7.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 25
 ---
