@@ -12,8 +12,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Hello World! My Name is Andrei Vivar.
-    subtitle: An aspiring AI/Machine Learning Engineer
+    title: 'Hello World! I''m Andrei Vivar, Your Future AI Overlord!'
+    subtitle: Mastering AI and Machine Learning to make sense of the chaos
     styles:
       self:
         height: auto
@@ -41,6 +41,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      ***THIS WEBSITE IS STILL A WORKING PROGRESS...***
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
