@@ -129,7 +129,7 @@ sections:
       - type: Label
         label: Web Development
       - type: Label
-        label: ''
+        label: Data Engineering
   - type: DividerSection
     styles:
       self:
