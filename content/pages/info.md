@@ -129,7 +129,7 @@ sections:
       - type: Label
         label: Web Development
       - type: Label
-        label: Microsoft Office
+        label: ''
   - type: DividerSection
     styles:
       self:
