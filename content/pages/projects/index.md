@@ -2,13 +2,6 @@
 type: ProjectFeedLayout
 title: Projects
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 25
-  url: /images/datax_by-kyle-mckernan-7.jpg
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
