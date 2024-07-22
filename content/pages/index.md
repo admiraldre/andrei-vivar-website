@@ -2,13 +2,6 @@
 type: PageLayout
 title: Home
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 25
-  url: /images/datax_by-kyle-mckernan-7.jpg
 sections:
   - elementId: ''
     colors: colors-f
