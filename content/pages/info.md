@@ -142,12 +142,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact Me:'
-    colors: colors-f
-    text: |
-      <drevivar2001@gmail.com>
   - type: DividerSection
     styles:
       self:
