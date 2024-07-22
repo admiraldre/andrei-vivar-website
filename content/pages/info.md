@@ -127,7 +127,7 @@ sections:
       - type: Label
         label: Software Engineering
       - type: Label
-        label: Swift
+        label: Web Development
       - type: Label
         label: Microsoft Office
   - type: DividerSection
