@@ -42,7 +42,7 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      **THIS WEBSITE IS STILL A WORKING PROGRESS**
+      ***THIS WEBSITE IS STILL A WORKING PROGRESS...***
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
