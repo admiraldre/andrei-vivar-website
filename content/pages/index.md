@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hello World! I''m ANdrei Vivar, Your Future AI Overlord!'
+    title: 'Hello World! I''m Andrei Vivar, Your Future AI Overlord!'
     subtitle: Mastering AI and Machine Learning to make sense of the chaos
     styles:
       self:
