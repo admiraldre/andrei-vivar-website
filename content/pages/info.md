@@ -123,7 +123,7 @@ sections:
       - type: Label
         label: AI / Machine Learning
       - type: Label
-        label: Pancakes
+        label: Software Engineering
       - type: Label
         label: C++
       - type: Label
