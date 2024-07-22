@@ -121,7 +121,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Netlify
+        label: AI / Machine Learning
       - type: Label
         label: Pancakes
       - type: Label
