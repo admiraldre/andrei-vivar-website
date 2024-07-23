@@ -4,7 +4,7 @@ title: Sample Blog Post
 colors: colors-b
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: yes this is a sample post
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
