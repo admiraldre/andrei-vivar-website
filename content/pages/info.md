@@ -30,6 +30,7 @@ sections:
         justifyContent: center
         borderWidth: 3
         borderColor: border-dark
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
