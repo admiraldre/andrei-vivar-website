@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A sample project post
+title: InstruTracker
 colors: colors-c
 date: '2024-07-19'
 client: Awesome client
