@@ -31,7 +31,7 @@ sections:
         borderWidth: 0
         borderColor: border-dark
         borderStyle: solid
-        alignItems: center
+        alignItems: flex-start
       title:
         textAlign: left
       subtitle:
