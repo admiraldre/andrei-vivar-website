@@ -18,7 +18,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
-  title: InstruTracker
+  title: ''
   subtitle: Full-stack Web Applicatopm
 styles:
   title:
