@@ -14,4 +14,4 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
-This is a sample project post
+InstruTracker is a full-stack web application that serves as a platform for musicians to log their practice sessions, share their progress on their journey, and to collaborate with fellow musicians.
