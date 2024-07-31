@@ -13,6 +13,7 @@ sections:
       type: ImageBlock
       url: /images/IMG_8335.jpeg
       altText: Hero image
+      caption: 'Me, 2024'
     styles:
       self:
         height: auto
