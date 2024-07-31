@@ -4,7 +4,7 @@ title: InstruTracker
 colors: colors-c
 date: '2024-07-19'
 client: TRU
-description: This is a first sample project post yar!
+description: Full-stack Web Application
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
