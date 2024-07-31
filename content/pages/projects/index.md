@@ -19,7 +19,7 @@ projectFeed:
         - pr-4
         - pb-12
   title: ''
-  subtitle: Full-stack Web Applicatopm
+  subtitle: ''
 styles:
   title:
     textAlign: left
