@@ -19,6 +19,7 @@ projectFeed:
         - pr-4
         - pb-12
   title: InstruTracker
+  subtitle: Full-stack Web Applicatopm
 styles:
   title:
     textAlign: left
