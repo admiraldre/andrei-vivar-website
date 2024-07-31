@@ -32,7 +32,7 @@ sections:
         borderColor: border-dark
         borderStyle: solid
         alignItems: center
-        flexDirection: col
+        flexDirection: row
       title:
         textAlign: left
       subtitle:
