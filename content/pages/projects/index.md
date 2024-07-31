@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: InstruTracker
+title: ''
 colors: colors-b
 projectFeed:
   type: ProjectFeedSection
