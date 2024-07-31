@@ -64,7 +64,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/vivar_andrei'
         styles:
           self:
             textAlign: left
