@@ -29,7 +29,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 3
-        borderColor: border-dark
+        borderColor: border-primary
         borderStyle: solid
       title:
         textAlign: left
