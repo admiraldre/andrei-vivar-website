@@ -11,7 +11,7 @@ sections:
       University, Canada.
     media:
       type: ImageBlock
-      url: /images/IMG_7756.jpeg
+      url: /images/IMG_8335.jpeg
       altText: Hero image
     styles:
       self:
@@ -64,7 +64,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/vivar_andrei'
         styles:
           self:
             textAlign: left
