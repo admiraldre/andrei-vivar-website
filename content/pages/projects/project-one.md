@@ -3,7 +3,7 @@ type: ProjectLayout
 title: InstruTracker
 colors: colors-c
 date: '2024-07-19'
-client: Awesome client
+client: TRU
 description: This is a first sample project post yar!
 featuredImage:
   type: ImageBlock
