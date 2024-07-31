@@ -27,7 +27,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        justifyContent: flex-end
+        justifyContent: center
         borderWidth: 0
         borderColor: border-dark
         borderStyle: solid
