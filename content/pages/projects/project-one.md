@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: InstruTracker
 colors: colors-c
-date: '2024-04-30'
+date: '2024-04-04'
 client: Thompson Rivers University
 description: Full-stack Web Application
 featuredImage:
