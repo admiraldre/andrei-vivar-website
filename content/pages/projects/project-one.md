@@ -3,7 +3,7 @@ type: ProjectLayout
 title: InstruTracker
 colors: colors-c
 date: '2024-07-19'
-client: TRU
+client: Thompson Rivers University
 description: Full-stack Web Application
 featuredImage:
   type: ImageBlock
