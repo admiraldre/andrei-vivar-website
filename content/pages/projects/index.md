@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: InstruTracker - Full-stack Web Application
+title: ''
 colors: colors-b
 projectFeed:
   type: ProjectFeedSection
