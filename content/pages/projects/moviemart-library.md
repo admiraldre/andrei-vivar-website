@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: MovieMart Online Library - KFS
 date: '2024-08-13'
-client: Awesome client
+client: The Kamloops Film Society
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
