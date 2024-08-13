@@ -3,9 +3,7 @@ type: ProjectLayout
 title: MovieMart Online Library - KFS
 date: '2024-08-13'
 client: The Kamloops Film Society
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Revamped '
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
