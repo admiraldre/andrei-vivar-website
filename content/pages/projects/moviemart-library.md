@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: MovieMart Online Library - KFS
+title: MovieMart Online Library
 date: '2024-08-13'
 client: The Kamloops Film Society
 description: 'Revamped '
