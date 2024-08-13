@@ -8,11 +8,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Project thumbnail image
-  caption: >-
-    Developed and implemented an ETL pipeline to automate the extraction of
-    movie data from the TMDB API, transforming and loading the information into
-    a MySQL database, improving data accuracy and accessibility for over 25,000
-    titles
+  caption: ''
   elementId: ''
 media:
   type: ImageBlock
