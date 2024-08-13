@@ -51,6 +51,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-one.md
+      - content/pages/projects/moviemart-library.md
     styles:
       self:
         height: auto
