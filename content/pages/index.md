@@ -50,8 +50,8 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/moviemart-library.md
+      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
